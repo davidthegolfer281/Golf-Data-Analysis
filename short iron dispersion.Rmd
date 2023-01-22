@@ -1,0 +1,18 @@
+---
+title: "MBDA 730 Week 2 Homework"
+author: "David Curtis"
+date: "2023-01-21"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+    code_download: true
+---
+
+```{r}
+golf_data <- read.csv("Golf Distribution Preactice Session.csv")
+```
+
+
+
